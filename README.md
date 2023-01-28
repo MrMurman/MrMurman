@@ -5,6 +5,9 @@ My name's Andrew, this is my first attempt at writing bio. It will be updated la
 - 🔭 I’m currently working on completing Swift Marathon 6 
 - 🌱 I’m currently learning Swuft UI framework
 
+You might find my takes on Angela's tutorials written on SUI via this link [https://github.com/stars/MrMurman/lists/tutorials-angela-yu]
+
+
 <!--
 **MrMurman/MrMurman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
