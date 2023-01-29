@@ -5,9 +5,9 @@ My name's Andrew, this is my first attempt at writing bio. It will be updated la
 - 🔭 I’m currently working on completing Swift Marathon 6 
 - 🌱 I’m currently learning Swuft UI framework
 
-You may find my takes on Angela's tutorials written on SUI via this [link](https://github.com/stars/MrMurman/lists/tutorials-angela-yu) <br>
-You may find my completed exercises of Appcoda tutorials via this link https://github.com/stars/MrMurman/lists/tutorials-appcoda
-You may find my completed exercises of 100Days with Swift tutorials via this link https://github.com/stars/MrMurman/lists/tutorial-100-days-with-swift
+You may find my takes on **Angela's tutorials** written on SUI via this [link](https://github.com/stars/MrMurman/lists/tutorials-angela-yu). <br>
+You may find my completed exercises of **Appcoda tutorials** via this [link](https://github.com/stars/MrMurman/lists/tutorials-appcoda).<br>
+You may find my completed exercises of **100Days with Swift tutorials** via this [link](https://github.com/stars/MrMurman/lists/tutorial-100-days-with-swift).<br>
 
 <!--
 **MrMurman/MrMurman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
