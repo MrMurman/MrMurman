@@ -10,8 +10,8 @@ You may find my takes on **Angela's tutorials** written on SUI via this [link](h
 You may find my completed exercises of **Appcoda tutorials** via this [link](https://github.com/stars/MrMurman/lists/tutorials-appcoda).<br>
 You may find my completed exercises of **100Days with Swift tutorials** via this [link](https://github.com/stars/MrMurman/lists/tutorial-100-days-with-swift).<br>
 
-You may find my completed exercises of **100Days with Swift tutorials** via this [link](https://github.com/stars/MrMurman/lists/tutorial-100-days-with-swift).<br>
-You may find my completed exercises of **React course** via this [link](https://github.com/stars/MrMurman/lists/tutorial-100-days-with-swift).<br>
+You may find my completed exercises of **100Days with SwiftUI tutorials** via this [link](https://github.com/stars/MrMurman/lists/tutorial-100-days-with-swiftui).<br>
+You may find my completed exercises of **React course** via this [link](https://github.com/stars/MrMurman/lists/react-course).<br>
 
 <!--
 **MrMurman/MrMurman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
