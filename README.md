@@ -2,11 +2,27 @@
 
 **Frontend & product engineer.** I build and ship software, and I like it fun and engaging.
 
+## Apps
+
+Free, open source, made in public. Tap a name for the source, screenshots and install steps.
+
+<a href="https://github.com/MrMurman/extremeCleanup"><img src="https://github.com/MrMurman/extremeCleanup/raw/main/docs/banner.jpg" alt="Extreme Cleanup" width="480"></a>
+
+**[Extreme Cleanup](https://github.com/MrMurman/extremeCleanup)** · macOS 14+ · free\
+Take a hammer or a minigun to your desktop. Your files stay untouched: the app wrecks a snapshot of the screen.\
+**[⬇ Download for Mac](https://github.com/MrMurman/extremeCleanup/releases/latest)** · [how to open it the first time](https://github.com/MrMurman/extremeCleanup#install)
+
+> On your phone? Send this page to yourself and open it on your Mac.
+
+More apps are on the way.
+
+---
+
 **Now**
 - Building small, useful products — and writing about the work as I go.
 - TypeScript / React, day to day.
 
-📌 Pinned repos below are what I'm building now.  ✍️ Writing — coming soon.
+✍️ Writing — coming soon.
 
 ---
 
