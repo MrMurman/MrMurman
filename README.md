@@ -1,4 +1,4 @@
-### Hi, I'm Andrey 👋
+### Hi, I'm Andrey 👋 · boroda studio
 
 **Frontend & product engineer.** I build and ship software, and I like it fun and engaging.
 
@@ -14,7 +14,7 @@ Take a hammer or a minigun to your desktop. Your files stay untouched: the app w
 
 > On your phone? Send this page to yourself and open it on your Mac.
 
-More apps are on the way.
+More apps are on the way. How they're made: **@boroda.builds** on [Instagram](https://www.instagram.com/boroda.builds/) and [YouTube](https://www.youtube.com/@boroda.builds).
 
 ---
 
